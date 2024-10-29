@@ -11,19 +11,3 @@ const parent = React.createElement('div',
                             {}, 'Sibiling 4')])]);
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(parent);
-
-
-
-
-// const heading = React.createElement('input', {
-//     id: 'heading',
-//     className: 'bankai',
-//     autoComplete: 'off',
-//     placeholder: 'Enter Text',
-//     required: true
-// });
-
-// const button = React.createElement('button', {
-//     id: 'button',
-// }, 'Submit');
-// root.render(button);
