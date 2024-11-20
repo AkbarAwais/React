@@ -4,6 +4,7 @@ import ShimmerComponent from "./Shimmer"
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
 import Courosel from "./Courosel";
+import React from "react";
 
 const Body = () => {
     let [restaurantDataObj, setRestaurantDataObj] = useState([]);

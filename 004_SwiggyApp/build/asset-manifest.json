@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/AkbarAwais/React/static/js/main.7c52550b.chunk.js",
+    "main.js.map": "/AkbarAwais/React/static/js/main.7c52550b.chunk.js.map",
+    "runtime~main.js": "/AkbarAwais/React/static/js/runtime~main.f33e1277.js",
+    "runtime~main.js.map": "/AkbarAwais/React/static/js/runtime~main.f33e1277.js.map",
+    "static/js/2.59313879.chunk.js": "/AkbarAwais/React/static/js/2.59313879.chunk.js",
+    "static/js/2.59313879.chunk.js.map": "/AkbarAwais/React/static/js/2.59313879.chunk.js.map",
+    "index.html": "/AkbarAwais/React/index.html",
+    "precache-manifest.8dad89451ffa08104f1c5926a57ab860.js": "/AkbarAwais/React/precache-manifest.8dad89451ffa08104f1c5926a57ab860.js",
+    "service-worker.js": "/AkbarAwais/React/service-worker.js",
+    "static/media/downArrow.svg": "/AkbarAwais/React/static/media/downArrow.b8641c80.svg",
+    "static/media/upArrow.svg": "/AkbarAwais/React/static/media/upArrow.d363f6d9.svg"
+  }
+}

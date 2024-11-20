@@ -1,6 +1,6 @@
 import React from 'react'
-import downSvg from "../../downArrow.svg"
-import upsvg from "../../upArrow.svg"
+import downSvg from "../../src/downArrow.svg"
+import upsvg from "../../src/upArrow.svg"
 import { useState } from "react"
 import MenuCart from './MenuCart'
 

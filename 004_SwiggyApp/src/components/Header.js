@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import React from "react";
 import { LOGO_URL } from "../utils/constants";
 import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";

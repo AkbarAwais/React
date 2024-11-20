@@ -1,5 +1,6 @@
 import CouroselCart from "./CouroselCart";
 import { useState } from "react";
+import React from "react";
 const Courosel = ({ data }) => {
     let [currentIndex, setCurrentIndex] = useState(1);
 

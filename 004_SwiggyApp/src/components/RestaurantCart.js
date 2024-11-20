@@ -24,7 +24,7 @@ const RestaurantCart = (props) => {
     const { cloudinaryImageId, name, cuisines, avgRating, locality, sla, id } = props?.respData;
     return (
         <div className="w-[300px] min-h-[450px] box-border m-[30px] text-ellipsis text-center bg-[seashell] hover:bg-gray-200 hover:rounded-[20px]
-        hover:shadow-red-800 hover:border-2 transition-all ease-in-out duration-300 hover:scale-[0.98]">
+        hover:shadow-red-800 hover:border-2 transform transition-transform ease-in-out duration-500 hover:scale-[0.98]">
             <img className="res-card-image w-[100%] h-[200px] rounded-[15px]" alt="resLogo" src={`${CDN_URL}${cloudinaryImageId}`}></img>
             <div className="text-center break-all">
                 <h3 className="font-extrabold mt-9">{name}</h3>
