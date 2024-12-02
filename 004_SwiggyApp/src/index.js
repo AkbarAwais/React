@@ -7,13 +7,18 @@ import About from "./components/About"
 import ContactUs from "./components/ContactUs"
 import Error from "./components/Error"
 import RestaurantMenu from "./components/RestaurantMenu"
+import { Provider } from "react-redux"
+import appStore from "./utils/appStore"
 
 const AppLayout = () => {
     return (
         <div className="app">
-            <Header />
+            <Provider store={appStore}>
+                <Header />
+            </Provider>
             <Outlet />
         </div>
+
     );
 }
 
